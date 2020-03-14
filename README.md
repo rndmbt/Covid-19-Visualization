@@ -11,3 +11,11 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 
 ---
 
+interactive slider:
+
+open anaconda shell, go to folder, type
+
+```
+bokeh serve --show covid-19-world.ipynb
+```
+
