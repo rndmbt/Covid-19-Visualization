@@ -28,8 +28,10 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 
 ### usage
 
-- box[1] - define custom color gradient
-- box[2] - download most recent dataset
-- box[5] - define 'h' as a top border for cases (black color, default 4000)
-- box[7] - choose for how many days back you want to see data (default 7)
+- box[2] - define custom color gradient
+- box[3] - download most recent dataset
+- box[6] - define 'h' as a top border for cases (black color, default 4000)
+- box[8] - choose for how many days back you want to see data (default 7, 'all' option can be slow)
+- hover over region to see data in numbers
+- drag and zoom to see more regions
 
