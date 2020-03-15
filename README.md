@@ -23,6 +23,7 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 - pandas
 - geopandas
 - bokeh
+- statsmodels
 
 ---
 
@@ -34,4 +35,5 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 - box[8] - choose for how many days back you want to see data (default 7, 'all' option can be slow)
 - hover over region to see data in numbers
 - drag and zoom to see more regions
+- box[10] - use for (not so great) future prediction
 
