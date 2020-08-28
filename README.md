@@ -21,6 +21,7 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 - pandas
 - geopandas
 - bokeh
+- scipy
 
 ---
 
