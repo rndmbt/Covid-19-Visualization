@@ -28,5 +28,6 @@ World Shape Source: https://www.naturalearthdata.com/downloads/110m-cultural-vec
 ### usage
 
 see comments in notebook
+
 preview by clicking on covid-19-world.ipynb
 
